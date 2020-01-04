@@ -20,7 +20,7 @@
                 </configuration>
             </plugin>
       <plugin>
-        <groupId>com.heroku.sdk</groupId>
+        <groupId>com.heroku.sdkxx</groupId>
         <artifactId>heroku-maven-plugin</artifactId>
         <version>2.0.13</version>
       </plugin>
